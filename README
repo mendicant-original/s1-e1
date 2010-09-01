@@ -3,7 +3,7 @@
 
 If in doubt about how to submit, see SUBMISSION_GUIDELINES file.
 
-For exercise #2, you'll be doing a bit of web service integration.  Your goal
+For exercise #1, you'll be doing a bit of web service integration.  Your goal
 will be to create some interesting mashup by connecting any web service of your
 choosing to twitter, either by creating an automated feed from an external
 data source, or a bot which responds in an interesting way to certain kinds
