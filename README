@@ -1,0 +1,55 @@
+-- RMU SESSION #1 | PROBLEM 1
+-- Submissions due 20:00 UTC 2010.09.07
+
+If in doubt about how to submit, see SUBMISSION_GUIDELINES file.
+
+For exercise #2, you'll be doing a bit of web service integration.  Your goal
+will be to create some interesting mashup by connecting any web service of your
+choosing to twitter, either by creating an automated feed from an external
+data source, or a bot which responds in an interesting way to certain kinds
+of tweets.
+
+This exercise is pretty open ended, but please follow the guidelines listed below.
+
+== GUIDELINES
+
+1. You can use any Ruby based Twitter libraries you'd like.
+
+2. You must integrate with some external application, preferably one that you
+haven't interacted with programatically before.
+
+3. Any service that we all can access via HTTP without paying for it 
+is fair game.   Even if you want to do something like use Mechanize to 
+scrape a site that  has no defined service API, that'd be acceptable.
+
+4. You should create a new twitter account for testing your bot, and have it
+running live to demonstrate it on 9/8.
+
+5. You should use the mailing list to communicate what sorts of bots you are
+building. Ideally, no two bots will provide the same featureset.
+
+6. You may look at other bots for inspiration, but do not submit a solution that
+simply mirrors something else you found.  Be creative :)
+
+7. You may help each other with the technical aspect of this project, so feel
+free to discuss integrating with twitter on #rmu-session-1 or on the mailing
+list.  You can also ask folks for help with how to integrate with whatever other
+services you want to use.  While your actual submission needs to be your own
+work, do not be afraid to ask for help from your fellow students.
+
+Examples:
+
+A bot which tweets all posts to Hacker News:
+http://twitter.com/hackernewsbot
+
+A list of useful twitter bots (i have not tested these, but you can get the idea
+from here):
+http://www.techmalaya.com/2007/12/13/10-most-useful-twitter-bots-list/
+
+== QUESTIONS?
+
+Hit up the mailing list or IRC.
+
+Please note that I am traveling for the next 7 days, and will only have access
+to email 9/1, 9/2, and 9/7.  I will try to answer questions during that time,
+but please rely on your fellow students for help in between. 
